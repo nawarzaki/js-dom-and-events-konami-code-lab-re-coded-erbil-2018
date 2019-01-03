@@ -22,4 +22,3 @@ function init() {
 document.body.appendChild(code)
 
 addEventListener('keydown', init)
-
